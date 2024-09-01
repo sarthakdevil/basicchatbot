@@ -6,3 +6,4 @@ pypdf
 faiss-cpu==1.7.3
 huggingface_hub==0.15.1
 python-dotenv==1.0.0
+pillow==9.4.0
