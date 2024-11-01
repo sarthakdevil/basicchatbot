@@ -6,3 +6,4 @@ pypdf
 huggingface_hub
 pillow
 faiss-cpu
+langchain_groq
