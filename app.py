@@ -50,6 +50,7 @@ def main():
     )
 
     llm = ChatGroq(
+        api_key=os.getenv("GROQ_API_KEY"),
         model="Llama3-8b-8192",
         temperature=0,
         max_tokens=None,

@@ -8,3 +8,4 @@ pillow
 faiss-cpu
 langchain_groq
 sentence_transformers
+torch
